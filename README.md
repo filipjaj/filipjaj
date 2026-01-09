@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I make videos on YouTube and TikTok**
 
+  [![committers.top badge](https://user-badge.committers.top/norway/USERNAME.svg)](https://user-badge.committers.top/norway/USERNAME)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/filipjohansen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filipjohansen" height="30" width="40" /></a>
